@@ -1,5 +1,5 @@
 
-# Hi, I am Stephen Chuks Okonye! 👋
+# Hi, I Chuksteve! 👋
 
 <img src="https://pbs.twimg.com/profile_images/1481511787807842308/XS2U78ut_400x400.jpg"
         alt="Stephen Chuks Okonye" />
@@ -9,13 +9,13 @@
 
 
 ### A frontend developer and python enthusiast.
-#### 🛠 Javascript, HTML, CSS, python, django
-## Other Common Github Profile Sections
+#### 🛠 HTML, CSS, Javascript, React, Python, Django
+
 👩‍💻 I'm currently working on some front end and python projects
 
-🧠 I'm currently learning front end development and python
+🧠 I'm currently a fullstack student at Zuri
 
-👯‍♀️ I'm looking to collaborater on web development and python projects
+👯‍♀️ I'm looking to collaborate on web development and python projects
 
 🤔 I'm looking for help with javascript, react, python and django
 
@@ -25,14 +25,7 @@
 
 😄 He/him/his
 
-⚡️ Tech , sports and music
-
-
-
-
-
-
-
+⚡️ Tech, sports and music
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Chuksteve)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-okonye-82613772)
