@@ -1,5 +1,5 @@
 
-# Hi, I Chuksteve! 👋
+# Hi, I'm Chuksteve! 👋
 
 <img src="https://pbs.twimg.com/profile_images/1481511787807842308/XS2U78ut_400x400.jpg"
         alt="Stephen Chuks Okonye" />
